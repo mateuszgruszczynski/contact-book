@@ -1,0 +1,12 @@
+0. set correct data
+1. validation
+    a. correct data
+    b. check for duplicates on email, phone
+2. css
+3. enumeration
+4. tests
+5. add creating events
+6. add listing events
+7. events validation
+    a. correct data
+    b. prevent overlap
